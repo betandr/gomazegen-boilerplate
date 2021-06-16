@@ -1,3 +1,6 @@
+*.png
+!images/maze.png
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
